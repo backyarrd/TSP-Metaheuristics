@@ -1,0 +1,17 @@
+Dataset :
+
+The experiments were conducted using several benchmark instances from the TSPLIB dataset.
+
+The following instances were used:
+eil51
+berlin52
+st70
+kroE100 
+eil101
+lin105
+ch130
+ch150
+tsp225
+a280
+
+Each instance contains coordinates of cities. These coordinates are used to compute a Euclidean distance matrix representing the distances between all pairs of cities.
